@@ -17,7 +17,7 @@ export default function Home() {
   const groupQualifications = [{ name: "Instrument", rate: 26 }];
 
   return (
-    <main className="min-h-screen bg-red-500 p-6 space-y-6">
+    <main className="min-h-screen bg-gray-200 p-6 space-y-6">
       <TeacherHeader
         name="Roopa Molaka"
         role="Teacher"
