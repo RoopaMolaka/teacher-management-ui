@@ -7,7 +7,7 @@ This is a submission for the frontend assessment task assigned by **PearlThought
 
 ## 🚀 Live Demo
 
-🌐 [View the deployed project](https://your-vercel-url.vercel.app)
+🌐 [View the deployed project](https://teacher-management-ui-alpha.vercel.app/)
 
 ---
 
@@ -65,7 +65,7 @@ teacher-management-ui/
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/your-username/teacher-management-ui.git
+git clone https://github.com/RoopaMolaka/teacher-management-ui
 cd teacher-management-ui
 ```
 
