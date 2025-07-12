@@ -13,7 +13,7 @@ This is a submission for the frontend assessment task assigned by **PearlThought
 
 ## 📹 Loom Video Walkthrough
 
-🎥 [Watch the full 5–10 min walkthrough](https://your-loom-link.com)
+🎥 [Watch the full 5–10 min walkthrough](https://www.loom.com/share/e951f09b9b564d6f9de969ebbf046d27)
 
 ---
 
